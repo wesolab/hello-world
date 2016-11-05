@@ -1,2 +1,3 @@
 # hello-world
-my very first learning repository!!
+My very first learning repository!!
+Ready for testing coding and branching.
